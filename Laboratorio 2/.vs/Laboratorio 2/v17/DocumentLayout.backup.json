@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53C421E9-1EBA-4827-BF94-6819DCF60A0B}|Laboratorio 22\\Laboratorio 22.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 2\\laboratorio 22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C421E9-1EBA-4827-BF94-6819DCF60A0B}|Laboratorio 22\\Laboratorio 22.csproj|solutionrelative:laboratorio 22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBAAF0E1-0A43-40BC-A221-45C01718879D}|Laboratorio 24\\Laboratorio 24.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 2\\laboratorio 24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAAF0E1-0A43-40BC-A221-45C01718879D}|Laboratorio 24\\Laboratorio 24.csproj|solutionrelative:laboratorio 24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD65CBB-D7D3-4BC8-81B1-3A98B94D5A41}|Laboratorio 2\\Laboratorio 2.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 2\\laboratorio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD65CBB-D7D3-4BC8-81B1-3A98B94D5A41}|Laboratorio 2\\Laboratorio 2.csproj|solutionrelative:laboratorio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87240A78-5FD0-4E74-9A2D-AE64BB4AA37B}|Laboratorio 23\\Laboratorio 23.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 2\\laboratorio 23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87240A78-5FD0-4E74-9A2D-AE64BB4AA37B}|Laboratorio 23\\Laboratorio 23.csproj|solutionrelative:laboratorio 23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 22\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio 22\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 22\\Program.cs",
-              "RelativeToolTip": "Laboratorio 22\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 24\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 24\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 24\\Program.cs",
+              "RelativeToolTip": "Laboratorio 24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T00:48:01.262Z",
+              "WhenOpened": "2025-09-16T00:51:36.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 2\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 2\\Program.cs",
-              "RelativeToolTip": "Laboratorio 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 23\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 23\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 2\\Laboratorio 23\\Program.cs",
+              "RelativeToolTip": "Laboratorio 23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T00:42:39.198Z",
+              "WhenOpened": "2025-09-16T00:50:20.265Z",
               "EditorCaption": ""
             }
           ]
