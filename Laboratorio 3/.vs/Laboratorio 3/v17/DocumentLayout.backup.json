@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F863334-8007-4CEA-BB2F-08553AAF8156}|Laboratorio 3\\Laboratorio 3.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 3\\laboratorio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F863334-8007-4CEA-BB2F-08553AAF8156}|Laboratorio 3\\Laboratorio 3.csproj|solutionrelative:laboratorio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6BD7EB-BACF-42B0-B9AF-4220CA6486E2}|Laboratorio 33\\Laboratorio 33.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 3\\laboratorio 33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6BD7EB-BACF-42B0-B9AF-4220CA6486E2}|Laboratorio 33\\Laboratorio 33.csproj|solutionrelative:laboratorio 33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 3\\Laboratorio 3\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio 3\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 3\\Laboratorio 3\\Program.cs",
-              "RelativeToolTip": "Laboratorio 3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 3\\Laboratorio 33\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 33\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 3\\Laboratorio 33\\Program.cs",
+              "RelativeToolTip": "Laboratorio 33\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T00:58:43.015Z",
+              "WhenOpened": "2025-09-16T01:06:40.726Z",
               "EditorCaption": ""
             }
           ]
