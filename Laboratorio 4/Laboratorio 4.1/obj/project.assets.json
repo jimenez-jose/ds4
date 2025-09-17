@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.1.csproj",
-      "projectName": "Laboratorio 4.1",
-      "projectPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.1.csproj",
+      "projectUniqueName": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.csproj",
+      "projectName": "Laboratorio 4",
+      "projectPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.csproj",
       "packagesPath": "C:\\Users\\Jose J\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\obj\\",
       "projectStyle": "PackageReference",
