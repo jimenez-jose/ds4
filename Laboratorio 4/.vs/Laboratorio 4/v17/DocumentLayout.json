@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E695D80-95EA-4E8D-BA9C-7D3806E20D6B}|Laboratorio 47\\Laboratorio 47.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 4\\laboratorio 47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E695D80-95EA-4E8D-BA9C-7D3806E20D6B}|Laboratorio 47\\Laboratorio 47.csproj|solutionrelative:laboratorio 47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFA49503-A2AD-4CA7-81E2-55792DC3B1A2}|Laboratorio 4.1\\Laboratorio 4.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio 4\\laboratorio 4.1\\laboratorio 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFA49503-A2AD-4CA7-81E2-55792DC3B1A2}|Laboratorio 4.1\\Laboratorio 4.csproj|solutionrelative:laboratorio 4.1\\laboratorio 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laboratorio 4.csproj",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.csproj",
+              "RelativeDocumentMoniker": "Laboratorio 4.1\\Laboratorio 4.csproj",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 4.1\\Laboratorio 4.csproj",
+              "RelativeToolTip": "Laboratorio 4.1\\Laboratorio 4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T17:42:16.529Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -23,19 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 47\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio 47\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 4\\Laboratorio 47\\Program.cs",
-              "RelativeToolTip": "Laboratorio 47\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T17:36:37.485Z",
-              "EditorCaption": ""
             }
           ]
         }

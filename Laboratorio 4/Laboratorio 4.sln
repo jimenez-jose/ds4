@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4.1", "Laboratorio 4.1\Laboratorio 4.1.csproj", "{FFA49503-A2AD-4CA7-81E2-55792DC3B1A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4", "Laboratorio 4.1\Laboratorio 4.csproj", "{FFA49503-A2AD-4CA7-81E2-55792DC3B1A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 42", "Laboratorio 42\Laboratorio 42.csproj", "{CC63A3EB-C281-437D-A9E6-C952901FF499}"
 EndProject
