@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\UTP-FISC\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4205E302-82DD-4A2C-B7E4-9CCBA5A18CF1}|Laboratorio 56\\Laboratorio 56.csproj|c:\\users\\utp-fisc\\source\\repos\\jimenez-jose\\ds4\\laboratorio 5\\laboratorio 56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4205E302-82DD-4A2C-B7E4-9CCBA5A18CF1}|Laboratorio 56\\Laboratorio 56.csproj|solutionrelative:laboratorio 56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE8F82AB-06EE-4FA2-AB4B-820BB9B2CB92}|Laboratorio 55\\Laboratorio 55.csproj|c:\\users\\utp-fisc\\source\\repos\\jimenez-jose\\ds4\\laboratorio 5\\laboratorio 55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE8F82AB-06EE-4FA2-AB4B-820BB9B2CB92}|Laboratorio 55\\Laboratorio 55.csproj|solutionrelative:laboratorio 55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UTP-FISC\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 5\\Laboratorio 56\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio 56\\Program.cs",
-              "ToolTip": "C:\\Users\\UTP-FISC\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 5\\Laboratorio 56\\Program.cs",
-              "RelativeToolTip": "Laboratorio 56\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T23:51:31.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UTP-FISC\\source\\repos\\jimenez-jose\\ds4\\Laboratorio 5\\Laboratorio 55\\Program.cs",
               "RelativeDocumentMoniker": "Laboratorio 55\\Program.cs",
