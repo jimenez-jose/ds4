@@ -9,7 +9,7 @@ namespace Laboratorio13
     {
         // Cadena de conexión al servidor SQL Server Express y la base de datos Northwind
         string connectionString =
-            @"Server=.\SQLEXPRESS;Database=Northwind;TrustServerCertificate=true;Integrated Security=SSPI;";
+        @"Server=(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=True;";
 
         public Form1()
         {
