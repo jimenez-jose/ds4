@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA3930D-6EA7-4124-BDE5-CBF49AA3B82D}|Laboratorio154\\Laboratorio154.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio15\\laboratorio154\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA3930D-6EA7-4124-BDE5-CBF49AA3B82D}|Laboratorio154\\Laboratorio154.csproj|solutionrelative:laboratorio154\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA3930D-6EA7-4124-BDE5-CBF49AA3B82D}|Laboratorio154\\Laboratorio154.csproj|c:\\users\\jose j\\source\\repos\\jimenez-jose\\ds4\\laboratorio15\\laboratorio154\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1EA3930D-6EA7-4124-BDE5-CBF49AA3B82D}|Laboratorio154\\Laboratorio154.csproj|solutionrelative:laboratorio154\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio15\\Laboratorio154\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio154\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio15\\Laboratorio154\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Laboratorio154\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:19:22.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio15\\Laboratorio154\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio154\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\Laboratorio15\\Laboratorio154\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio154\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-12T04:19:09.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
